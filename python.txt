@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=lihzzaHavnE&ab_channel=AllTech
+
+http://mindhalls.ru/exchange-code/
+
+Получить размеры и сравнение времён выполнния запросов:
+https://fooobar.com/questions/24343/how-do-i-get-the-row-count-of-a-pandas-dataframe
+

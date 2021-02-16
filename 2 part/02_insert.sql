@@ -1,0 +1,13 @@
+insert into managers values('1',  'RAKOV SEMEN VIKTOROVICH',                'Директор',                                     '+79699750566');                  
+insert into managers values('2',  'POZDNIKOVA IRINA PETROVNA',              'Заместитель директора',                        '+79258325657');                  
+insert into managers values('3',  'PODOL`SKICH VALENTINA IVANOVNA',         'Бухгалтер',                                    '+79788745084');                  
+insert into managers values('4',  'RYIBINA OLGA VASIL`EVNA',                'Художественное чтение',                        '+79570618057');                  
+insert into managers values('5',  'TRONSKIY IOSIF MOISEEVICH',              'Преподаватель русского и литературы',          '+79372545695');                  
+insert into managers values('6',  'VOLKOV PETR SERGEEVICH',                 'Преподаватель физики и математики',            '+79215134946');                  
+insert into managers values('7',  'NIKITIN IVAN SERGEEVICH',                'Спортивный тренер',                            '+79729030899');                  
+insert into managers values('8',  'LOSEVA VLADISLAVA AL`BERTOVNA',          'Общее дошкольное развитие',                    '+79230144233');                  
+insert into managers values('9',  'BORSCHIN EGOR STEPANOVICH',              'Преподаватель танцев',                         '+79304432813');                  
+insert into managers values('10', 'ROSCHIN MIXAIL EVGRAFOVICH',             'Преподаватель пения (хор)',                    '+79269474822');                  
+insert into managers values('11', 'MUCH OLEG NIKOLAEVICH',                  'Преподаватель пения (сольно)',                 '+79263074323');                  
+insert into managers values('12', 'KRUZHKINA INNA STEPANOVNA',              'Преподаватель театрального искусства',         '+79354530177');                  
+insert into managers values('13', 'MAL` NIKOLAY NIKOLAEVICH',               'Преподаватель авиамоделирования',              '+79084697091');                  
